@@ -111,3 +111,4 @@
   sudo python3 bsclear.py
 
  ```
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django?style=plastic">
