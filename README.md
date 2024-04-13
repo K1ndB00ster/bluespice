@@ -1,4 +1,4 @@
-<h1 style="color:cyan;">BlueSpice automatical installation server script</h1>
+<h4 style="color:cyan;"> <img src=https://bluespice.com/wp-content/uploads/2022/09/bluespice_logo.png>  autoinstall server script  </h4> 
 <a style="color:cyan">Script for autoinstall BlueSpice server.</a>
 <h1 style="color:red;">IS RAW NOW</h1>  
 
@@ -12,7 +12,7 @@
 }>U can use this script by yur's responsibility, but it must work</p>
 <img src=https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white> <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
  <img src=https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0> <img src=https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white> <img src=https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white>
-
+  
 </body>
 </html>
 <h6>Sorce code:</h6>
