@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo yum -y install python3 nano dnf net-tools wget python python-devel mysql-devel redhat-rpm-config gcc iptables-services
 sudo dnf install curl -y
 pip3 install mysql-connector-python==8.0.29
